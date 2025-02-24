@@ -1,0 +1,6 @@
+locations:
+- build:
+    directory: ./gary_jaffle_shop_with_dagster
+  code_source:
+    module_name: gary_jaffle_shop_with_dagster.definitions
+  location_name: gary_jaffle_shop_with_dagster
