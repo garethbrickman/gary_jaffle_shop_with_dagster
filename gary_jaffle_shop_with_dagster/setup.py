@@ -14,7 +14,6 @@ setup(
         "dagster-cloud",
         "dagster-dbt",
         "dbt-duckdb<1.10",
-        "cowsay"
     ],
     extras_require={
         "dev": [
@@ -22,4 +21,3 @@ setup(
         ]
     },
 )
-
